@@ -1,2 +1,2 @@
-# scottyrichmusic.github.io
-Scotty Rich music portfolio website
+# scotty rich music
+The Scotty Rich music portfolio website
